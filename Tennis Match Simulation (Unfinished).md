@@ -90,7 +90,7 @@ ggplot(tennis_probs, mapping = aes(x = point_prob)) +
 
 
 
-\begin{center}\includegraphics{Tennis-Match-Simulation--Unfinished-_files/figure-latex/Graph of Compounding Probabilites-1} \end{center}
+See `Graph of Compounding Probabilities`
 
 Note how the succeeding lines compress excessively around the midpoint. A player with merely a $60\%$ probability of winning a point is already virtually guaranteed to win the match.
 
@@ -283,6 +283,6 @@ ggplot(results, aes(x = probs, y = win_pct, color = sims, linetype = sims)) +
 
 
 
-\begin{center}\includegraphics{Tennis-Match-Simulation--Unfinished-_files/figure-latex/Graph of Win Proportions-1} \end{center}
+See `Graph of Win Proportions`
 
 Note the red dashed line which indicates the exact calculated probability from the first graph.
