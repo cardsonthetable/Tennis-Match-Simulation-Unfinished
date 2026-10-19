@@ -286,3 +286,5 @@ ggplot(results, aes(x = probs, y = win_pct, color = sims, linetype = sims)) +
 See `Graph of Win Proportions`
 
 Note the red dashed line which indicates the exact calculated probability from the first graph.
+
+More to come...
