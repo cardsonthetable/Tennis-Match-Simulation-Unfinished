@@ -2,7 +2,7 @@
 title: "Tennis Match Simulation (Unfinished)"
 author: "Isaac Stiepleman"
 date: "October 14, 2026"
-output: html_document
+output: pdf_document
 fontsize: 11pt
 geometry: margin = 1in
 ---
