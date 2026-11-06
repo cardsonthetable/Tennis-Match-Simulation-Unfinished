@@ -2,9 +2,7 @@
 title: "Tennis Match Simulation"
 author: "Isaac Stiepleman"
 date: "November 2, 2026"
-output:
-  pdf_document:
-    keep_md: TRUE
+output: pdf_document
 fontsize: 11pt
 geometry: margin = 1in
 ---
