@@ -1023,7 +1023,9 @@ opponent. Against a specific opponent, it should fall if that opponent
 returns well, and rise if they return poorly. Barnett and Clarke (2005)
 handle this with a simple formula.
 
-$$f_{ij} = f_t + (f_i - f_{av}) - (g_j - g_{av})$$ Where $f_{ij}$ is the
+$$f_{ij} = f_t + (f_i - f_{av}) - (g_j - g_{av})$$ 
+
+Where $f_{ij}$ is the
 probability that player $i$ wins a point on serve against player $j$,
 $f_i$ is player $i$’s serve win%, $g_j$ is player $j$’s return win%,
 $f_{av}$ and $g_{av}$ are the tour averages, and $f_t$ is the baseline
